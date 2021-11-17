@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/bwilliams/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/6.0.0/3a10b25b6820e19102e118711afe6a66c0bae123/butterknife-6.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="3a10b25b6820e19102e118711afe6a66c0bae123">
+        <dex dex="/Users/bwilliams/git/PotlatchGIFTAndroidClientAS/app/build/intermediates/pre-dexed/debug/butterknife-6.0.0-168784d3333b679e3d3cd9a3aa66a23b0e111903.jar" />
+    </item>
+    <item
+        jar="/Users/bwilliams/git/PotlatchGIFTAndroidClientAS/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Users/bwilliams/git/PotlatchGIFTAndroidClientAS/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-0784d2253cc8bb9979547235c9bb1e42b642cb37.jar" />
+    </item>
+    <item
+        jar="/Users/bwilliams/git/PotlatchGIFTAndroidAS/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.0.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="81d6467247ced8a5d51f8ff73a6595d517eddba6">
+        <dex dex="/Users/bwilliams/git/PotlatchGIFTAndroidAS/app/build/intermediates/pre-dexed/debug/classes-83355cc19140fa71135157d90d39a647e115d7d3.jar" />
+    </item>
+    <item
+        jar="/Users/bwilliams/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.0.0-rc.6/8f8f055568a389c3b170d81b713f60bbb5ad8bf9/rxjava-1.0.0-rc.6.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="8f8f055568a389c3b170d81b713f60bbb5ad8bf9">
+        <dex dex="/Users/bwilliams/git/PotlatchGIFTAndroidClientAS/app/build/intermediates/pre-dexed/debug/rxjava-1.0.0-rc.6-aef1b71cc81dc1c2d513366c6e1e0c6848ba632f.jar" />
+    </item>
+    <item
+        jar="/Users/bwilliams/git/PotlatchGIFTAndroidAS/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7d2525cba8ed61fff102977caed964fc22061e34">
+        <dex dex="/Users/bwilliams/git/PotlatchGIFTAndroidAS/app/build/intermediates/pre-dexed/debug/classes-6170db9587d506d76e9c857be33c0be8ec48b8f3.jar" />
+    </item>
+    <item
+        jar="/Users/bwilliams/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.4.0/473e063d6396a1ff6e4b9c7943e604291ce18b07/jackson-databind-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="473e063d6396a1ff6e4b9c7943e604291ce18b07">
+        <dex dex="/Users/bwilliams/git/PotlatchGIFTAndroidAS/app/build/intermediates/pre-dexed/debug/jackson-databind-2.4.0-2a31eaae861f4c5480f0a5661fbfae615434168c.jar" />
+    </item>
+    <item
+        jar="/Users/bwilliams/git/PotlatchGIFTAndroidAS/app/libs/cloudinaryandroid-1.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4ac4e68bbc166dd6db53c424c73c095b31c4486d">
+        <dex dex="/Users/bwilliams/git/PotlatchGIFTAndroidAS/app/build/intermediates/pre-dexed/debug/cloudinaryandroid-1.0.2-adc2e553581b9754859365c74cdbe03574e97540.jar" />
+    </item>
+    <item
+        jar="/Users/bwilliams/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.4.0/1e33fd4cca6c4a9bf3d2f638cabb504a5b5c989d/jackson-core-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1e33fd4cca6c4a9bf3d2f638cabb504a5b5c989d">
+        <dex dex="/Users/bwilliams/git/PotlatchGIFTAndroidAS/app/build/intermediates/pre-dexed/debug/jackson-core-2.4.0-67649ab3cf804459b46d1e21b59592c05476bcc0.jar" />
+    </item>
+    <item
+        jar="/Users/bwilliams/.gradle/caches/modules-2/files-2.1/io.reactivex/rxandroid/0.22.0/2d31bf524cba8022c3252eae023a6721b38856a2/rxandroid-0.22.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2d31bf524cba8022c3252eae023a6721b38856a2">
+        <dex dex="/Users/bwilliams/git/PotlatchGIFTAndroidClientAS/app/build/intermediates/pre-dexed/debug/rxandroid-0.22.0-d2a5cc04d6c810c5a6f199893a45180224fd149e.jar" />
+    </item>
+    <item
+        jar="/Users/bwilliams/.gradle/caches/modules-2/files-2.1/com.github.davidmarquis/fluent-interface-proxy/1.3.0/519c459c771e2554437649a32b56e27a83ba66dc/fluent-interface-proxy-1.3.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="519c459c771e2554437649a32b56e27a83ba66dc">
+        <dex dex="/Users/bwilliams/git/PotlatchGIFTAndroidAS/app/build/intermediates/pre-dexed/debug/fluent-interface-proxy-1.3.0-4b509bdc3141d82dc7b2ddc70f87a301de053a86.jar" />
+    </item>
+    <item
+        jar="/Users/bwilliams/git/PotlatchGIFTAndroidAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="/Users/bwilliams/git/PotlatchGIFTAndroidAS/app/build/intermediates/pre-dexed/debug/classes-c24d8b45a40de85a66df87d5da6cc2c00adaafc7.jar" />
+    </item>
+    <item
+        jar="/Users/bwilliams/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.4/b1b6ea3b7e4aa4f492509a4952029cd8e48019ad/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/bwilliams/git/PotlatchGIFTAndroidClientAS/app/build/intermediates/pre-dexed/debug/commons-io-2.4-213e2ef9d7c40ece594257e170f8a4a49f314236.jar" />
+    </item>
+    <item
+        jar="/Users/bwilliams/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/Users/bwilliams/git/PotlatchGIFTAndroidClientAS/app/build/intermediates/pre-dexed/debug/gson-2.3-5e0c84fe52ff680949066e34e29e651e32f813c5.jar" />
+    </item>
+    <item
+        jar="/Users/bwilliams/.gradle/caches/modules-2/files-2.1/commons-beanutils/commons-beanutils/1.9.2/7a87d845ad3a155297e8f67d9008f4c1e5656b71/commons-beanutils-1.9.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7a87d845ad3a155297e8f67d9008f4c1e5656b71">
+        <dex dex="/Users/bwilliams/git/PotlatchGIFTAndroidAS/app/build/intermediates/pre-dexed/debug/commons-beanutils-1.9.2-02fa69f33c6d4901d53a3de971ef0567e7cbf582.jar" />
+    </item>
+    <item
+        jar="/Users/bwilliams/git/PotlatchGIFTAndroidAS/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/Users/bwilliams/git/PotlatchGIFTAndroidAS/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-815dde8150e504e71f6ba1d80c807462388accff.jar" />
+    </item>
+    <item
+        jar="/Users/bwilliams/dev/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/Users/bwilliams/git/PotlatchGIFTAndroidAS/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-f255c32288f6f64c07b83cd1efb0442f90066b0c.jar" />
+    </item>
+    <item
+        jar="/Users/bwilliams/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.4.0/d6a66c7a5f01cf500377bd669507a08cfeba882a/jackson-annotations-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d6a66c7a5f01cf500377bd669507a08cfeba882a">
+        <dex dex="/Users/bwilliams/git/PotlatchGIFTAndroidAS/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.4.0-a3aa181a0bc790e216eed67908c923f2623e75dc.jar" />
+    </item>
+    <item
+        jar="/Users/bwilliams/git/PotlatchGIFTAndroidAS/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4796f18d3750bf2bfa078407a94a7f9db35b440d">
+        <dex dex="/Users/bwilliams/git/PotlatchGIFTAndroidAS/app/build/intermediates/pre-dexed/debug/classes-2907bc94cdb3695e13fa44d1585235bf0779a5d7.jar" />
+    </item>
+    <item
+        jar="/Users/bwilliams/git/PotlatchGIFTAndroidAS/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/Users/bwilliams/git/PotlatchGIFTAndroidAS/app/build/intermediates/pre-dexed/debug/classes-369dacf253b2cd9f41f636591f0b5d09bd4b234e.jar" />
+    </item>
+    <item
+        jar="/Users/bwilliams/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.7.1/168a878946d665200edc733ac715b1264a6cd7b6/retrofit-1.7.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="168a878946d665200edc733ac715b1264a6cd7b6">
+        <dex dex="/Users/bwilliams/git/PotlatchGIFTAndroidClientAS/app/build/intermediates/pre-dexed/debug/retrofit-1.7.1-b51137842ae16989e84f8f09f4a464a00cb08f39.jar" />
+    </item>
+    <item
+        jar="/Users/bwilliams/git/PotlatchGIFTAndroidAS/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-cards/2.0.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d851788f6c23d14aa5fa8fbfd6d1b17725ad44c5">
+        <dex dex="/Users/bwilliams/git/PotlatchGIFTAndroidAS/app/build/intermediates/pre-dexed/debug/classes-75390382363af8d6acabb170f88f79ad512060d9.jar" />
+    </item>
+    <item
+        jar="/Users/bwilliams/git/PotlatchGIFTAndroidAS/app/build/intermediates/exploded-aar/com.melnykov/floatingactionbutton/1.0.6/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9e2a086dd45f06b4bfa44ecfa63e892486699af6">
+        <dex dex="/Users/bwilliams/git/PotlatchGIFTAndroidAS/app/build/intermediates/pre-dexed/debug/classes-00f9e2495355b6285c328938bd5dbcd6d0e33085.jar" />
+    </item>
+    <item
+        jar="/Users/bwilliams/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/17.0/9c6ef172e8de35fd8d4d8783e4821e57cdef7445/guava-17.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9c6ef172e8de35fd8d4d8783e4821e57cdef7445">
+        <dex dex="/Users/bwilliams/git/PotlatchGIFTAndroidClientAS/app/build/intermediates/pre-dexed/debug/guava-17.0-fa6641e1c1e1d0399ec78c8cbcf0ab3ac2f2f425.jar" />
+    </item>
+    <item
+        jar="/Users/bwilliams/.gradle/caches/modules-2/files-2.1/commons-collections/commons-collections/3.2.1/761ea405b9b37ced573d2df0d1e3a4e0f9edc668/commons-collections-3.2.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="761ea405b9b37ced573d2df0d1e3a4e0f9edc668">
+        <dex dex="/Users/bwilliams/git/PotlatchGIFTAndroidAS/app/build/intermediates/pre-dexed/debug/commons-collections-3.2.1-502803ffeadbeae16cb1ffb78c357330b881e235.jar" />
+    </item>
+    <item
+        jar="/Users/bwilliams/dev/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/Users/bwilliams/git/PotlatchGIFTAndroidClientAS/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-0e4da4c27800542d5934714d3bb844ca70db5bde.jar" />
+    </item>
+    <item
+        jar="/Users/bwilliams/git/PotlatchGIFTAndroidClientAS/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Users/bwilliams/git/PotlatchGIFTAndroidClientAS/app/build/intermediates/pre-dexed/debug/classes-d121fe6cf4f951ec3ebe76111e2884835e221def.jar" />
+    </item>
+    <item
+        jar="/Users/bwilliams/git/PotlatchGIFTAndroidClientAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="95fd37732ec852e99f07eeb516a3650172f1d136">
+        <dex dex="/Users/bwilliams/git/PotlatchGIFTAndroidClientAS/app/build/intermediates/pre-dexed/debug/classes-fd2b4ff2666e72b88695e9d6594e43359fcdf100.jar" />
+    </item>
+
+</items>

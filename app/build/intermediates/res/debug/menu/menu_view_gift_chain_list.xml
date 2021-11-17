@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!-- Search, should appear as action button -->
+
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/search_icon"
+        android:title="@string/search_title"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        app:showAsAction="collapseActionView|ifRoom"/>
+
+    <item
+        android:id="@+id/action_stats"
+        android:icon="@drawable/stats_icon"
+        android:title="@string/action_stats"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/action_giftlist"
+        android:title="@string/action_giftlist"
+        app:showAsAction="never"/>
+    <!-- Settings, should always be in the overflow -->
+    <item
+        android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        app:showAsAction="never"/>
+</menu>
+<!-- From: file:/Users/bwilliams/git/PotlatchGIFTAndroidAS/app/src/main/res/menu/menu_view_gift_chain_list.xml -->

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ************** Application-wide Strings ************* -->
+    <string name="app_name">G > I > F > T</string>
+    <string name="userName">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="server">Server IP or Hostname</string>
+    <string name="localhost">https://192.168.56.1:8443</string>
+    <string name="title_activity_gift_list">Gift List</string>
+    <string name="search_title">Search Gifts</string>
+    <string name="title_activity_create_gift">Create a new Gift</string>
+    <string name="title_activity_edit_gift">Edit</string>
+    <string name="title_activity_view_gift_chain_list">Latest Chains</string>
+    <string name="title_activity_view_gift_chain">Chain</string>
+    <string name="title_activity_top_gift_givers">Top Givers</string>
+    <string name="authenticating">Authenticating</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_application_main">G > I > F > T</string>
+    <string name="title_activity_main">G > I > F > T</string>
+    <string name="authority">com.newtonwilliamsdesign.potlatch.gift</string>
+
+    <!-- ******************* Defined Colors ****************** -->
+    <color name="cyan">#00ffff</color>
+    <color name="gray">#808080</color>
+    <color name="lightblue">#add8e6</color>
+
+    <!-- ******************* Action Menu ********************* -->
+
+    <string name="action_refresh">Refresh</string>
+    <string name="action_flag">Flag Gift as Inappropriate</string>
+    <string name="action_delete">Delete Gift</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_stats">Top Gift Givers</string>
+    <string name="action_search">Search Gifts</string>
+    <string name="action_help">Help</string>
+    <string name="action_logout">Logout</string>
+
+    <!-- ******************* Create Gift Activity ************ -->
+
+    <string name="create_gift">Create new gift</string>
+    <string name="fromGalleryLabel">Add From Gallery</string>
+    <string name="fromCameraLabel">Take a Photo</string>
+    <string name="createGiftButtonLabel">Create New Gift</string>
+    <string name="addImageLabel">Add Image</string>
+    <string name="descriptionTextEditDefault">Description (optional)</string>
+    <string name="titleTextEditDefault">Title</string>
+    <string name="card_empty_cardwithlist_text">No other Gifts in this chain. Add a Gift to the chain using the + button.</string>
+    <string name="ChainedGifts">Chained Gifts</string>
+    <string name="basic_preferences">Basic Settings</string>
+    <string name="flag_preference">Show Flagged Gifts</string>
+    <string name="summary_flag_preference">Select whether to display Gifts flagged by any user as inappropriate or obscene</string>
+    <string name="touches_update_preference">Touches Update Frequency</string>
+    <string name="summary_touches_update_preference">Set the frequency that the app will update Touch counts on Gifts</string>
+    <string name="dialog_touches_update_preference">Touches Update Frequency</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_search">Search</string>
+    <string name="search_hint">e.g. Smiles</string>
+    <string name="search_results_title">Search Results</string>
+    <string name="action_giftlist">Latest Gift Chains</string>
+    <string name="title_activity_splash_screen">G > I > F > T</string>
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:card="http://schemas.android.com/apk/res-auto"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent">
+
+    <it.gmariotti.cardslib.library.view.CardListView
+        android:id="@+id/gift_chain_list_card_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        card:list_card_layout_resourceID="@layout/gift_list_card_layout"
+        />
+
+</FrameLayout><!-- From: file:/Users/bwilliams/git/PotlatchGIFTAndroidAS/app/src/main/res/layout/activity_search.xml -->

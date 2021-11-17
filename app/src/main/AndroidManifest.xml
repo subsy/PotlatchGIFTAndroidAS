@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.newtonwilliamsdesign.potlatch.gift.client"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="21" />
+
+    <android:uses-permission android:name="android.permission.INTERNET" />
+    <android:uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <android:uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <android:uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <android:uses-feature
+        android:name="android.hardware.camera"
+        android:required="false" />
+
+    <application
+        android:name="com.newtonwilliamsdesign.potlatch.gift.client.GiftApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/title_application_main"
+        android:theme="@style/AppTheme" >
+        <meta-data
+            android:name="CLOUDINARY_URL"
+            android:value="cloudinary://882449151174893:QTzM3CSUTHzxoOg3Jjf4zb0iLic@subsy" />
+
+        <service android:name=".utils.UserIntentService" />
+
+        <activity
+            android:name="com.newtonwilliamsdesign.potlatch.gift.client.LoginScreenActivity"
+            android:label="@string/title_activity_main" >
+        </activity>
+        <activity
+            android:name="com.newtonwilliamsdesign.potlatch.gift.client.CreateGiftActivity"
+            android:label="@string/title_activity_create_gift" >
+        </activity>
+        <activity
+            android:name="com.newtonwilliamsdesign.potlatch.gift.client.ViewGiftChainCardsListActivity"
+            android:label="@string/title_activity_view_gift_chain_list" >
+            <meta-data
+                android:name="android.app.default_searchable"
+                android:value=".SearchResultsActivity" />
+        </activity>
+        <activity
+            android:name="com.newtonwilliamsdesign.potlatch.gift.client.ViewGiftChainActivity"
+            android:label="@string/title_activity_view_gift_chain" >
+            <meta-data
+                android:name="android.app.default_searchable"
+                android:value=".SearchResultsActivity" />
+        </activity>
+        <activity
+            android:name="com.newtonwilliamsdesign.potlatch.gift.client.SettingsActivity"
+            android:label="@string/title_activity_settings" >
+        </activity>
+        <activity
+            android:name="com.newtonwilliamsdesign.potlatch.gift.client.TopGiftGiversActivity"
+            android:label="@string/title_activity_top_gift_givers" >
+        </activity>
+        <activity
+            android:name="com.newtonwilliamsdesign.potlatch.gift.client.SearchResultsActivity"
+            android:label="@string/search_results_title" >
+            <intent-filter>
+                <action android:name="android.intent.action.SEARCH" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.app.searchable"
+                android:resource="@xml/searchable" />
+        </activity>
+        <activity
+            android:name="com.newtonwilliamsdesign.potlatch.gift.client.SplashScreenActivity"
+            android:label="@string/title_application_main"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.DeviceDefault.Light.NoActionBar.Fullscreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <service
+            android:name=".utils.TouchCountIntentService"
+            android:exported="false" >
+        </service>
+        <receiver
+            android:name=".utils.UpdateManagerBroadcastReceiver"
+            android:enabled="true"
+            android:exported="true" >
+        </receiver>
+    </application>
+
+</manifest>

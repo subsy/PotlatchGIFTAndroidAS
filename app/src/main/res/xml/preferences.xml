@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:key="basic_settings"
+        android:title="@string/basic_preferences">
+        <CheckBoxPreference
+            android:key="displayFlagged"
+            android:summary="@string/summary_flag_preference"
+            android:title="@string/flag_preference"/>
+
+        <ListPreference
+            android:dialogTitle="@string/dialog_touches_update_preference"
+            android:entries="@array/touches_update_options"
+            android:entryValues="@array/entryvalues_touches_update_preference"
+            android:key="updateFreq"
+            android:summary="@string/summary_touches_update_preference"
+            android:title="@string/touches_update_preference"/>
+    </PreferenceCategory>
+</PreferenceScreen>
